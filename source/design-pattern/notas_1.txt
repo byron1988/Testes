@@ -1,0 +1,16 @@
+Objetos
+	atributos (membros de dados)
+	procedimentos
+
+objeto carro -> combustivel, rodas, acelerar...
+
+Objetos
+	- representam entidades
+
+Classes
+	- definem objetos
+
+Pessoa -> nome, idade, peso, ir_a_escola
+
+Métodos
+	- representam o comportamento do objeto

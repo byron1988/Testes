@@ -1,0 +1,19 @@
+- Princípio do aberto/fechado
+- Princípio da inversão de controle
+- Princípio da segregação de interfaces
+- Princípio da responsabilidade única
+- Princípio da substituição
+
+Contexto
+1) Participantes
+2) Requisitos não funcionais
+3) Negociações
+4) Resultados
+
+var = 5
+var = 'mARCOS'
+
+Categorias de padrões
+1) padrões de criação (Singleton)
+2) padrões estruturais (Adapter)
+3) padrões comportamentais
